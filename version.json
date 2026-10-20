@@ -1,0 +1,8 @@
+{
+  "version": "1.0.37",
+  "url": "https://raw.githubusercontent.com/vula0510/vula-money-deploy/main/dist.zip",
+  "checksum": "1bedba551aba23cb2ebef9db701bbad9b64e584b2fa738924bb6ab4f679a0662",
+  "updatedAt": "2026-10-20T17:30:56Z",
+  "commit": "8b6b6354e0f1295269053c79d1a6e028f1a1138e",
+  "changelog": "refactor: remove glass-control filter button from WalletDetailScreen header and add UI test coverage"
+}
